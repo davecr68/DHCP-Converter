@@ -1,5 +1,5 @@
 # DHCP-Converter
-A .NET Windows application for processing various DHCP vendor files
+A VB.NET Windows application for processing DHCP configuration files and outputing to BT IPControl import format or standard CSV.  Load single configuration files or multiples at one time for processing.
 
 Release Notes: https://github.com/davecr68/DHCP-Converter/wiki/Release-Notes
 
