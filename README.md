@@ -11,7 +11,7 @@ https://github.com/davecr68/DHCP-Converter/blob/master/QR%20Code.png
 
 If you cannot scan with your phone, the URL link below will take you to the PayPayl site.
 
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XQGBW66G8T3R4&source=url
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FTJK6CLQJECMS&source=url
 
 
 Thank you for your support and I hope this utility has helped you as much as it has me.
