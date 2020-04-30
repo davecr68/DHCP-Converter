@@ -7,7 +7,7 @@ IPDevNet Site: https://www.ipdevnet.com/dhcpparser/
 
 If you or your team have benefitied from the use of these freeware utilities, please show your apprecation with a simple donation.  All funds are used for the continued support and expenses to maintain sites, code and applications.  You can click the QR PNG to view and scan the QR code with your phone.
 
-https://github.com/davecr68/DHCP-Converter/blob/master/IPDevNetQR.png?raw=true
+https://github.com/davecr68/DHCP-Converter/blob/master/IPDevNetQR.png
 
 If you cannot scan with your phone, the URL link below will take you to the PayPayl site.
 
